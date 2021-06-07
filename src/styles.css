@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: darkorange;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.pics {
+  border-radius: 125px;
+  max-width: 250px;
+}
